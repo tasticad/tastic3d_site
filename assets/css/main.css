@@ -163,6 +163,10 @@ pre {
 /**
  * Home page blog posts
  */
+.art-thumb {
+	width: 100%;
+}
+
 .post-date, .tag-span {
 	display: inline-block;
 	font-size: 14px;
