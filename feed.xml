@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/" rel="alternate" type="text/html" /><updated>2019-10-31T18:01:14+01:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/feed.xml</id><title type="html">TASTIC3D</title><subtitle>Hello, this is my website showcasing my professional and personal work for 3D content. Thank you for your visite.</subtitle><entry><title type="html">Patterns to motion</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2019/10/11/patterns_to_motion.html" rel="alternate" type="text/html" title="Patterns to motion" /><published>2019-10-11T00:00:00+02:00</published><updated>2019-10-11T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2019/10/11/patterns_to_motion</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2019/10/11/patterns_to_motion.html"></content><author><name></name></author><category term="maya" /><category term="bifrost" /><summary type="html"></summary></entry><entry><title type="html">Lanvin shoe</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/10/04/lanvin_shoe.html" rel="alternate" type="text/html" title="Lanvin shoe" /><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/10/04/lanvin_shoe</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/10/04/lanvin_shoe.html">&lt;p&gt;&lt;img src=&quot;shoe_ref.jpg&quot; alt=&quot;image reference to sculpt the shoe&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/" rel="alternate" type="text/html" /><updated>2019-12-29T21:13:22+01:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/feed.xml</id><title type="html">TASTIC3D</title><subtitle>Hello, this is my website showcasing my professional and personal work for 3D content. Thank you for your visite.</subtitle><entry><title type="html">Patterns to motion</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2019/10/11/patterns_to_motion.html" rel="alternate" type="text/html" title="Patterns to motion" /><published>2019-10-11T00:00:00+02:00</published><updated>2019-10-11T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2019/10/11/patterns_to_motion</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2019/10/11/patterns_to_motion.html"></content><author><name></name></author><category term="maya" /><category term="bifrost" /><summary type="html"></summary></entry><entry><title type="html">Lanvin shoe</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/10/04/lanvin_shoe.html" rel="alternate" type="text/html" title="Lanvin shoe" /><published>2019-10-04T00:00:00+02:00</published><updated>2019-10-04T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/10/04/lanvin_shoe</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/10/04/lanvin_shoe.html">&lt;p&gt;&lt;img src=&quot;shoe_ref.jpg&quot; alt=&quot;image reference to sculpt the shoe&quot; /&gt;
 &lt;em&gt;Reference image used to scupt the shoe&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;shoe_parts.jpg&quot; alt=&quot;the different parts of the scupted shoe&quot; /&gt;
@@ -34,21 +34,7 @@
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;More details on this project soon.&lt;/p&gt;</content><author><name></name></author><category term="maya" /><category term="substance-painter" /><category term="unity" /><summary type="html">A long project implying 3D dogs rigging and real dogs motion-captures.</summary></entry><entry><title type="html">Old fashioned dress</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/05/27/old_fashioned_dress.html" rel="alternate" type="text/html" title="Old fashioned dress" /><published>2019-05-27T00:00:00+02:00</published><updated>2019-05-27T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/05/27/old_fashioned_dress</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/05/27/old_fashioned_dress.html">&lt;p&gt;Order of London’s Central Saint Martins museum.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;CSM_satin1.png&quot; alt=&quot;front view of the dress&quot; /&gt;
-&lt;em&gt;Front&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;CSM_satin2.png&quot; alt=&quot;back view of the dress&quot; /&gt;
-&lt;em&gt;Back&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;CSM_satin3.png&quot; alt=&quot;side view of the dress&quot; /&gt;
-&lt;em&gt;Side&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;CSM_satin4.png&quot; alt=&quot;close-up on the dress&quot; /&gt;
-&lt;em&gt;Close-up&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;CSM_satin5.png&quot; alt=&quot;dress with transparent mannequin&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="marvelous-designer" /><category term="substance-painter" /><category term="arnold-renderer" /><summary type="html">Order of London’s Central Saint Martins museum.</summary></entry><entry><title type="html">Le Bon Marché</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/03/10/le_bon_marche.html" rel="alternate" type="text/html" title="Le Bon Marché" /><published>2019-03-10T00:00:00+01:00</published><updated>2019-03-10T00:00:00+01:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/03/10/le_bon_marche</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/03/10/le_bon_marche.html">&lt;div class=&quot;mt-5 mb-5&quot;&gt;
+&lt;p&gt;More details on this project soon.&lt;/p&gt;</content><author><name></name></author><category term="maya" /><category term="substance-painter" /><category term="unity" /><summary type="html">A long project implying 3D dogs rigging and real dogs motion-captures.</summary></entry><entry><title type="html">Le Bon Marché</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/03/10/le_bon_marche.html" rel="alternate" type="text/html" title="Le Bon Marché" /><published>2019-03-10T00:00:00+01:00</published><updated>2019-03-10T00:00:00+01:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/03/10/le_bon_marche</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/2019/03/10/le_bon_marche.html">&lt;div class=&quot;mt-5 mb-5&quot;&gt;
 	&lt;div class=&quot;youtube-wrapper&quot;&gt;
 	&lt;iframe src=&quot;https://www.youtube.com/embed/xWk7spXe-_w&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 	
@@ -118,4 +104,62 @@
 &lt;em&gt;Full view of the space hall&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;arnold_mat1.png&quot; alt=&quot;&quot; /&gt;
-&lt;em&gt;Arnold node network for procedural texture of the robot&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="maya" /><category term="arnold-renderer" /><summary type="html">A small side project to get my hands on modeling and basic animation with Maya, then Arnold for texturing and rendering.</summary></entry><entry><title type="html">Akira rebirth</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2017/04/04/akira_rebirth.html" rel="alternate" type="text/html" title="Akira rebirth" /><published>2017-04-04T00:00:00+02:00</published><updated>2017-04-04T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2017/04/04/akira_rebirth</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2017/04/04/akira_rebirth.html">&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="photoshop" /><category term="after-effects" /><summary type="html">Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry></feed>
+&lt;em&gt;Arnold node network for procedural texture of the robot&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="maya" /><category term="arnold-renderer" /><summary type="html">A small side project to get my hands on modeling and basic animation with Maya, then Arnold for texturing and rendering.</summary></entry><entry><title type="html">Akira rebirth</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2017/04/04/akira_rebirth.html" rel="alternate" type="text/html" title="Akira rebirth" /><published>2017-04-04T00:00:00+02:00</published><updated>2017-04-04T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2017/04/04/akira_rebirth</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/blog/perso/2017/04/04/akira_rebirth.html">&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="photoshop" /><category term="after-effects" /><summary type="html">Check out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.</summary></entry><entry><title type="html">Magellan</title><link href="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/archive/2014/09/24/magellan.html" rel="alternate" type="text/html" title="Magellan" /><published>2014-09-24T00:00:00+02:00</published><updated>2014-09-24T00:00:00+02:00</updated><id>http://localhost:4000/https://tasticad.github.io/tasticad_site/work/archive/2014/09/24/magellan</id><content type="html" xml:base="http://localhost:4000/https://tasticad.github.io/tasticad_site/work/archive/2014/09/24/magellan.html">&lt;p&gt;&lt;img src=&quot;schiff.gif&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Scripting the 3D movement of the boat along a path&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&quot;mt-5 mb-5&quot;&gt;
+	&lt;div class=&quot;youtube-wrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/zBzgfFM1fyo&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	
+		&lt;em&gt;1st chapter intro&lt;/em&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mt-5 mb-5&quot;&gt;
+	&lt;div class=&quot;youtube-wrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/hn0KoioYt0Q&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	
+		&lt;em&gt;2nd chapter intro&lt;/em&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mt-5 mb-5&quot;&gt;
+	&lt;div class=&quot;youtube-wrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/HkcpaeLVqvs&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	
+		&lt;em&gt;3rd chapter intro&lt;/em&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mt-5 mb-5&quot;&gt;
+	&lt;div class=&quot;youtube-wrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/VzQzh11MylQ&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	
+		&lt;em&gt;4th chapter intro&lt;/em&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mt-5 mb-5&quot;&gt;
+	&lt;div class=&quot;youtube-wrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/oc9Qeg6pO_M&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	
+		&lt;em&gt;5ft chapter intro&lt;/em&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mt-5 mb-5&quot;&gt;
+	&lt;div class=&quot;youtube-wrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/Ca4R_5uizAg&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+	
+		&lt;em&gt;6th chapter intro&lt;/em&gt;
+	
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;illus1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;em&gt;Book inside illustration of Magellan meeting the autochthons&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="photoshop" /><category term="after-effects" /><summary type="html">Scripting the 3D movement of the boat along a path</summary></entry></feed>
