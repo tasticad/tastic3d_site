@@ -84,19 +84,22 @@ ul.intro-title li:nth-child(5) {
 }
 ul.intro-title li:nth-child(6) {
 	margin-left: -.25em;
+	color: #f5636c;
 }
 ul.intro-title li:nth-child(7) {
 	margin-left: -.20em;
 	color: #f5636c;
-/** here for inversed letter "E" **/
+/** here for inversed letter "E" 
 	-moz-transform: scale(-1, 1); 
 	-webkit-transform: scale(-1, 1);
 	-o-transform: scale(-1, 1);
 	-ms-transform: scale(-1, 1);
-	transform: scale(-1, 1); /* */
+	transform: scale(-1, 1); 
+**/
 }
 ul.intro-title li:nth-child(8) {
 	margin-left: -.27em;
+	color: #f5636c;
 }
 
 @media only screen and (min-width: 768px) { /* <---------- SMALL DEVICES (Tablets) */
