@@ -176,7 +176,7 @@ ul.intro-title li:nth-child(8) {
 /******** Animate appear on E *********/
 .intro-title li p.E {
 	opacity: 0;
-	transform: translateX(-150px); /** here change to negative for inversed letter "E" **/
+	transform: translateX(150px); /** here change to negative for inversed letter "E" **/
 	animation: appearE 1.5s;
 	animation-fill-mode: forwards;
 }
