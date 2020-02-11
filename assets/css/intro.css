@@ -71,23 +71,23 @@ ul.intro-title li {
 
 
 ul.intro-title li:nth-child(2) {
-	margin-left: -.25em;
+	margin-left: -.27em;
 }
 ul.intro-title li:nth-child(3) {
 	margin-left: -.18em;
 }
 ul.intro-title li:nth-child(4) {
-	margin-left: -.19em;
+	margin-left: -.20em;
 }
 ul.intro-title li:nth-child(5) {
-	margin-left: -.21em;
+	margin-left: -.22em;
 }
 ul.intro-title li:nth-child(6) {
-	margin-left: -.25em;
+	margin-left: -.26em;
 	color: #f5636c;
 }
 ul.intro-title li:nth-child(7) {
-	margin-left: -.20em;
+	margin-left: -.21em;
 	color: #f5636c;
 /** here for inversed letter "E" 
 	-moz-transform: scale(-1, 1); 
@@ -98,7 +98,7 @@ ul.intro-title li:nth-child(7) {
 **/
 }
 ul.intro-title li:nth-child(8) {
-	margin-left: -.27em;
+	margin-left: -.23em;
 	color: #f5636c;
 }
 
