@@ -71,32 +71,34 @@ ul.intro-title li {
 
 
 ul.intro-title li:nth-child(2) {
-	margin-left: -.25em;
+	margin-left: -.28em; /* -.25 */
 }
 ul.intro-title li:nth-child(3) {
-	margin-left: -.18em;
+	margin-left: -.20em; /* -.18 */
 }
 ul.intro-title li:nth-child(4) {
-	margin-left: -.19em;
+	margin-left: -.20em; /* -.19 */
 }
 ul.intro-title li:nth-child(5) {
 	margin-left: -.21em;
 }
 ul.intro-title li:nth-child(6) {
 	margin-left: -.25em;
+	color: #f5636c;
 }
 ul.intro-title li:nth-child(7) {
-	margin-left: -.20em;
+	margin-left: -.18em; /* -.20 */
 	color: #f5636c;
-/** here for inversed letter "E" **/
+/** here for inversed letter "E" 
 	-moz-transform: scale(-1, 1); 
 	-webkit-transform: scale(-1, 1);
 	-o-transform: scale(-1, 1);
 	-ms-transform: scale(-1, 1);
-	transform: scale(-1, 1); /* */
+	transform: scale(-1, 1); **/
 }
 ul.intro-title li:nth-child(8) {
-	margin-left: -.27em;
+	margin-left: -.23em; /* -.27 */
+	color: #f5636c;
 }
 
 @media only screen and (min-width: 768px) { /* <---------- SMALL DEVICES (Tablets) */
@@ -173,7 +175,7 @@ ul.intro-title li:nth-child(8) {
 /******** Animate appear on E *********/
 .intro-title li p.E {
 	opacity: 0;
-	transform: translateX(-150px); /** here change to negative for inversed letter "E" **/
+	transform: translateX(150px); /** here change to negative for inversed letter "E" **/
 	animation: appearE 1.5s;
 	animation-fill-mode: forwards;
 }
